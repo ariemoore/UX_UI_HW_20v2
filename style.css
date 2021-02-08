@@ -1,0 +1,177 @@
+html {
+    height: auto;
+    max-width: 1680px;
+}
+body {
+    color: #707070;
+}
+.nav {
+    padding: 20px;
+    margin-bottom: 40px;
+}
+.nav-item a {
+    color: #707070;
+    padding: 40px;
+    font-size: 20px;
+}
+h2 {
+    color: red;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+.img-fluid {
+    display: inline;
+    text-align: center;
+    margin: 40px;
+}
+.container-jumbotron {
+    text-align: center;
+    margin-bottom: 150px;
+}
+.container {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.col-sm {
+    line-height: 25px;
+}
+.col-sm h3 {
+    margin-top: 120px;
+}
+.col-sm img {
+    height: 500px;
+    width: auto;
+}
+.col-sm ul {
+    list-style-type: circle;
+}
+.container-firstlast .img-fluid {
+    width: 88%;
+    height: auto;
+}
+
+.card {
+    margin-bottom: 40px;
+    margin-left: 70px;
+    max-width: 90%;
+}
+img {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.col h2 {
+    color: #707070;
+}
+
+.col-sm h2 {
+    color: #707070;
+}
+
+h1 {
+    text-align: center;
+}
+.container-firstlast {
+    margin-bottom: 100px;
+}
+.img1 {
+    margin-top: 50px;
+    margin-bottom: 230px;
+    margin-left: 3%;
+    width: 100%;
+    height: auto;
+}
+.container-testing {
+    margin-left: 3%;
+    margin-bottom: 100px;
+    margin-top: 200px;
+}
+.container-testing .img-web img {
+    width: 80%;
+    height: auto;
+}
+.container-testing h3 {
+    margin-top: 20px;
+}
+.img2 {
+    width: 100%;
+    height: auto;
+}
+.container-board h1 {
+    font-size: 44px;
+}
+.wireframes .img-fluid {
+    margin-left: -100;
+    width: 60%;
+    height: auto;
+}
+.style-guide .img-fluid img {
+    margin-bottom: 100px;
+    height: 80%;
+    width: auto;
+}
+.container-testing-2 .col {
+    margin-left: 60px;
+}
+.container-testing-2 .col h2 {
+    margin-top: 130px;
+}
+.container-testing-2 .col img {
+    height: 60%;
+    width: auto;
+    padding: 0;
+}
+.container-testing-3 h2 {
+    margin-left: -400px;
+}
+.container-ahead {
+    padding: 40px;
+}
+.container-ahead h2 {
+    margin-top: 150px;
+}
+.container-ahead h3 {
+    margin-top: 150px;
+    font-size: 20px;
+    font-weight: inherit; 
+}
+.container-ahead h4 {
+    margin-top: 50px;
+    font-size: 20px;
+    font-weight: inherit; 
+}
+.container-ahead p {
+    margin-top: 50px;
+    font-size: 20px;
+}
+.container-ahead .col-sm img {
+    margin-left: 80px;
+}
+.final .img4 {
+    margin-top: 100px;
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+}
+.end .img5 {
+    margin-top: 100px;
+    width: 90%;
+    height: auto;
+}
+.iterate .img6 {
+    margin-top: 100px;
+    width: 80%;
+    height: auto;
+}
+.persona .img1 {
+    margin-top: 100px;
+    width: 95%;
+    height: auto;
+}
+.persona .img2 {
+    margin-top: 100px;
+    width: 95%;
+    height: auto;
+}
